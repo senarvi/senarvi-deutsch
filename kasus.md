@@ -1,12 +1,12 @@
 Nominativ    | Akkusativ    | Dativ        | Genitiv
 ------------ | ------------ | ------------ | ------------
 wer          | wen          | wem          | wessen
-             |              |              |
+&nbsp;       | &nbsp;       | &nbsp;       | &nbsp;
 ich          | mich         | mir          | mein
 du           | dich         | dir          | dein
 wir          | uns          | uns          | unser
 ihr          | euch         | euch         | euer
-             |              |              |
+&nbsp;       | &nbsp;       | &nbsp;       | &nbsp;
 **er**       | **ihn**      | **ihm**      | **sein**
 der          | den          | dem          | dessen
 der Stuhl    | den -        | dem -        | des Stuhls
@@ -17,7 +17,7 @@ sein Stuhl [er/es] | seinen - | seinem -   | seines Stuhls
 ihr Stuhl [sie/Sie] | ihren - | ihrem -    | ihres Stuhls
 unser Stuhl  | unseren -    | unserem -    | unseres Stuhls
 euer Stuhl   | euren -      | eurem -      | eures Stuhls
-             |              |              |
+&nbsp;       | &nbsp;       | &nbsp;       | &nbsp;
 **es**       | **es**       | **ihm**      | **sein**
 das          | das          | dem          | dessen
 das Glas     | das -        | dem -        | des Glases
@@ -28,7 +28,7 @@ sein Glas [er/es] | sein -  | seinem -     | seines Glases
 ihr Glas [sie/Sie] | ihr -  | ihrem -      | ihres Glases
 unser Glas   | unser -      | unserem -    | unseres Glases
 euer Glas    | euer -       | eurem -      | eures Glases
-             |              |              |
+&nbsp;       | &nbsp;       | &nbsp;       | &nbsp;
 **sie** [she] | **sie**     | **ihr**      | **ihr**
 die          | die          | der          | deren
 die Torte    | die -        | der -        | der -
@@ -39,7 +39,7 @@ seine Torte [er/es] | seine - | seiner -   | seiner -
 ihre Torte [sie/Sie] | ihre - | ihrer -    | ihrer -
 unsere Torte | unsere -     | unserer -    | unserer -
 eure Torte   | eure -       | eurer -      | eurer -
-             |              |              |
+&nbsp;       | &nbsp;       | &nbsp;       | &nbsp;
 **sie** [they/polite] | **sie** | **ihnen** | **ihr**
 die          | die          | denen        | deren
 die Gäste    | die -        | den Gästen   | der -
